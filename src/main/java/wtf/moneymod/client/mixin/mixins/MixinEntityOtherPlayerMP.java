@@ -2,7 +2,7 @@ package wtf.moneymod.client.mixin.mixins;
 
 import com.mojang.authlib.GameProfile;
 import net.minecraft.client.entity.AbstractClientPlayer;
-import net.minecraft.client.entity.EntityOtherPlayerMP;
+// import net.minecraft.client.entity.EntityOtherPlayerMP;
 import net.minecraft.util.math.MathHelper;
 import net.minecraft.world.World;
 import org.spongepowered.asm.mixin.Mixin;
