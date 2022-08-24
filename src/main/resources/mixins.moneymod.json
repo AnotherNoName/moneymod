@@ -31,7 +31,6 @@
     "MixinGuiNewChat",
     "MixinEntityRenderer",
     "MixinRenderEnderCrystal",
-    "MixinEntityOtherPlayerMP",
     "MixinNetHandlerPlayClient",
     "MixinBlockSoulSand",
     "MixinRenderPlayer",
